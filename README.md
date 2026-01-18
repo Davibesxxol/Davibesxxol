@@ -11,7 +11,7 @@
   <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  </div>
+</div>
 
 <br>
 
@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/f3/ba/46/f3ba4650567a2164f89d986b51551061.gif" width="200px">
+      <img src="https://i.pinimg.com/originals/f3/ba/46/f3ba4650567a2164f89d986b51551061.gif" width="100%">
     </td>
   </tr>
 </table>
@@ -54,31 +54,16 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Daviboxxxol&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=buefy&hide_border=true" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Daviboxxxol&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daviboxxxol&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
 </div>
-
-
-
-Olá! Eu sou Davi!
-
-Estudante de Sistemas de Informação.
-
-
-
-- 🏟 Estudante de back end.
-- Eu atualmente estou estundando Python🐍 e Java☕
-- 💻Pretendo me tornar desenvolvedor back-end.
-- 📖 Estudo a universidade Unex.
-
-  
