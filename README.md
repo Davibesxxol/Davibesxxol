@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Bem-vindo%20ao%20GitHub%20do%20Davi&fontSize=50&fontColor=ffffff&fontAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Bem-vindo&fontSize=50&fontColor=ffffff&fontAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -23,9 +23,8 @@
       <h3>Olá! Eu sou o Davi 👋</h3>
       <p>Sou um estudante apaixonado por tecnologia, focado em <b>Java</b> e <b>Spring Boot</b>.</p>
       <ul>
-        <li>🎓 Estudando Análise e Desenvolvimento de Sistemas</li>
+        <li>🎓 Sistemas de Informação</li>
         <li>☕ Criando APIs robustas e escaláveis</li>
-        <li>🔭 Trabalhando no projeto <b>Cadastro de Usuários</b></li>
         <li>💬 Me pergunte sobre: <b>Java, SQL, POO</b></li>
       </ul>
     </td>
@@ -51,6 +50,5 @@
 <br>
 
 <div align="center">
-  <h2>📈 Minha Atividade</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daviboxxxol&bg_color=0d1117&color=ffffff&line=bc8cff&point=ffffff&hide_border=true" width="100%"/>
+  
 </div>
