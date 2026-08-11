@@ -21,7 +21,7 @@
   <tr>
     <td width="60%" valign="center">
       <h3>Olá! Eu sou o Davi 👋</h3>
-      <p>Sou um estudante apaixonado por tecnologia, focado em <b>Java</b>, <b>React</b>, <b>Python</b> e <b>Sql</b>.
+      <p>Sou um estudante de tecnologia, focado em <b>Java</b>, <b>React</b>, <b>Python</b> e <b>Sql</b>.
       <ul>
         <li>🎓 Sistemas de Informação</li>
         <li>☕ Criando APIs robustas e escaláveis</li>
