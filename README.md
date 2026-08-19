@@ -1,54 +1,53 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Bem-vindo&fontSize=50&fontColor=ffffff&fontAlign=50" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=236ad3&center=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Davi+%F0%9F%91%8B;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Focado+em+Java,+React,+Python+e+SQL;Criando+APIs+robustas+e+escal%C3%A1veis+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+
+### 💻 Java | React | Python | SQL
+
+<p>
+Em constante aprendizado, um commit de cada vez. 🚀
+</p>
+
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+## 👨‍💻 Sobre mim
+
+* 🎓 Estudante de **Sistemas de Informação**
+* ☕ Focado em desenvolvimento com **Java, React, Python e SQL**
+* ⚙️ Criando APIs robustas e escaláveis
+* 💬 Me pergunte sobre: **Java, SQL, POO**
+
+## 🌐 Conecte-se comigo
+
+<p align="center">
+  <a href="https://github.com/Davibesxxol?tab=followers">
+    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/Davibesxxol?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</div>
+  <a href="mailto:SEU_EMAIL_AQUI@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-<br>
+## 📊 Estatísticas
 
-<div align="center">
-  <h2>👨‍💻 Sobre mim</h2>
-</div>
+<p align="center">
+  <img width="50%" src="https://github-stats-extended.vercel.app/api?username=Davibesxxol&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
+  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Davibesxxol&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
+</p>
 
-<table border="0" align="center">
-  <tr>
-    <td width="60%" valign="center">
-      <h3>Olá! Eu sou o Davi 👋</h3>
-      <p>Sou um estudante de tecnologia, focado em <b>Java</b>, <b>React</b>, <b>Python</b> e <b>Sql</b>.
-      <ul>
-        <li>🎓 Sistemas de Informação</li>
-        <li>☕ Criando APIs robustas e escaláveis</li>
-        <li>💬 Me pergunte sobre: <b>Java, SQL, POO</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/f3/ba/46/f3ba4650567a2164f89d986b51551061.gif" width="180px">
-    </td>
-  </tr>
-</table>
+## 📈 Atividade
 
-<br>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Davibesxxol&theme=monokai&locale=pt_BR&card_width=900&card_height=170" alt="GitHub Streak" />
+  </a>
+</p>
 
-<div align="center">
-  <h2>❄️ Tecnologias</h2>
-  
-  <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" />
-</div>
+## 🐍 Contribuições
 
-<br>
-
-<div align="center">
-  
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Davibesxxol/Davibesxxol/output/dist/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />
+</p>
