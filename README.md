@@ -41,13 +41,11 @@ Em constante aprendizado, um commit de cada vez. 🚀
 ## 📈 Atividade
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Davibesxxol&theme=monokai&locale=pt_BR&card_width=900&card_height=170" alt="GitHub Streak" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=chairass&theme=monokai&locale=pt_BR&card_width=900&card_height=170" alt="GitHub Streak" />
 </p>
 
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Davibesxxol/Davibesxxol/output/dist/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />
+  <img src="https://raw.githubusercontent.com/chairass/chairass/gh-pages/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />
 </p>
